@@ -1,0 +1,1 @@
+This example demonstrates the use of memory mapped IO by blinking the RGB leds LD5 and LD4, red and blue, 10 times each. The example assumes that the Pynq-Z1 base overlay has been loaded at boot-time, and that the PL clock settings match PS clock settings. By default, this is the case in an unmodified system.

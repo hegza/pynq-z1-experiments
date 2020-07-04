@@ -1,0 +1,12 @@
+[package]
+name = "common"
+version = "0.1.0"
+authors = ["xilinx"]
+edition = "2018"
+
+[lib]
+name = "common"
+path = "src/lib.rs"
+
+[dependencies]
+libc = "^0.2"

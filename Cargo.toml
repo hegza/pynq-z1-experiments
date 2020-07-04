@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "1-police",
+    "common",
+]
+
