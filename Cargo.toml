@@ -2,6 +2,7 @@
 
 members = [
     "1-police",
+    "2-course-bitstream",
     "common",
 ]
 
